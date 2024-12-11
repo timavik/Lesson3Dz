@@ -1,0 +1,14 @@
+D:\csharp\Lesson3DzOne\Lesson3DzOne\bin\Debug\net9.0\Lesson3DzOne.exe
+D:\csharp\Lesson3DzOne\Lesson3DzOne\bin\Debug\net9.0\Lesson3DzOne.deps.json
+D:\csharp\Lesson3DzOne\Lesson3DzOne\bin\Debug\net9.0\Lesson3DzOne.runtimeconfig.json
+D:\csharp\Lesson3DzOne\Lesson3DzOne\bin\Debug\net9.0\Lesson3DzOne.dll
+D:\csharp\Lesson3DzOne\Lesson3DzOne\bin\Debug\net9.0\Lesson3DzOne.pdb
+D:\csharp\Lesson3DzOne\Lesson3DzOne\obj\Debug\net9.0\Lesson3DzOne.GeneratedMSBuildEditorConfig.editorconfig
+D:\csharp\Lesson3DzOne\Lesson3DzOne\obj\Debug\net9.0\Lesson3DzOne.AssemblyInfoInputs.cache
+D:\csharp\Lesson3DzOne\Lesson3DzOne\obj\Debug\net9.0\Lesson3DzOne.AssemblyInfo.cs
+D:\csharp\Lesson3DzOne\Lesson3DzOne\obj\Debug\net9.0\Lesson3DzOne.csproj.CoreCompileInputs.cache
+D:\csharp\Lesson3DzOne\Lesson3DzOne\obj\Debug\net9.0\Lesson3DzOne.dll
+D:\csharp\Lesson3DzOne\Lesson3DzOne\obj\Debug\net9.0\refint\Lesson3DzOne.dll
+D:\csharp\Lesson3DzOne\Lesson3DzOne\obj\Debug\net9.0\Lesson3DzOne.pdb
+D:\csharp\Lesson3DzOne\Lesson3DzOne\obj\Debug\net9.0\Lesson3DzOne.genruntimeconfig.cache
+D:\csharp\Lesson3DzOne\Lesson3DzOne\obj\Debug\net9.0\ref\Lesson3DzOne.dll
